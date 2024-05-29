@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1716974193 source:c:\users\coden\desktop\proiect_pa_gherasie_gabriel_catalin\fisherman.c
+	<sys/types.h>
+	<stdlib.h>
+	<time.h>
+	<stdio.h>
+	"fisherman.h"
+
+1716973294 c:\users\coden\desktop\proiect_pa_gherasie_gabriel_catalin\fisherman.h
+
+1716977045 source:c:\users\coden\desktop\proiect_pa_gherasie_gabriel_catalin\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fisherman.h"
+
